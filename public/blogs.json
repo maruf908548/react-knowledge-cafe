@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "cover": "https://example.com/cover1.jpg",
+    "cover": "https://i.ibb.co.com/94vYSWv/spooky.jpg",
     "title": "The Dawn of AI",
     "author": "Jane Doe",
     "author_img": "https://i.ibb.co.com/7GpVjZv/Md-Maruf-Ahmed-Copy.png",
@@ -11,7 +11,7 @@
   },
   {
     "id": 2,
-    "cover": "https://example.com/cover2.jpg",
+    "cover": "https://i.ibb.co.com/94vYSWv/spooky.jpg",
     "title": "Exploring the Cosmos",
     "author": "John Smith",
     "author_img": "https://i.ibb.co.com/7GpVjZv/Md-Maruf-Ahmed-Copy.png",
@@ -21,7 +21,7 @@
   },
   {
     "id": 3,
-    "cover": "https://example.com/cover3.jpg",
+    "cover": "https://i.ibb.co.com/94vYSWv/spooky.jpg",
     "title": "Mastering Python",
     "author": "Alice Johnson",
     "author_img": "https://i.ibb.co.com/7GpVjZv/Md-Maruf-Ahmed-Copy.png",
@@ -31,7 +31,7 @@
   },
   {
     "id": 4,
-    "cover": "https://example.com/cover4.jpg",
+    "cover": "https://i.ibb.co.com/94vYSWv/spooky.jpg",
     "title": "The Art of Mindfulness",
     "author": "Michael Lee",
     "author_img": "https://i.ibb.co.com/7GpVjZv/Md-Maruf-Ahmed-Copy.png",
@@ -41,7 +41,7 @@
   },
   {
     "id": 5,
-    "cover": "https://example.com/cover5.jpg",
+    "cover": "https://i.ibb.co.com/94vYSWv/spooky.jpg",
     "title": "History of the Ancient World",
     "author": "Sarah Brown",
     "author_img": "https://i.ibb.co.com/7GpVjZv/Md-Maruf-Ahmed-Copy.png",
